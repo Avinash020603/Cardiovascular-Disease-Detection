@@ -144,7 +144,3 @@ jupyter notebook ML_pipeline.ipynb
 - StandardScaler was fit on training data and applied to test data only.
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
